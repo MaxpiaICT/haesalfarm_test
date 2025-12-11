@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:docs": "vite build --outDir ../docs --config ../vite.config.js",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -13,6 +14,7 @@
     "react-router-dom": "^6.14.1"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
     "autoprefixer": "^10.4.14",
     "png-to-ico": "^3.0.1",
     "postcss": "^8.4.21",
