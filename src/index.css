@@ -197,7 +197,7 @@
 
  .hero-bg {
   @apply absolute inset-0 w-full h-full bg-cover bg-center; /* h-full로 변경 */
-  background-image: url('/assets/bg.jpg');
+  background-image: url('/haesalfarm_test/assets/bg.jpg');
   z-index: 0;
 }
 

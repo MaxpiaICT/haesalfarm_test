@@ -14,7 +14,7 @@ export default function App(){
     <div className="site-root">
       <header className="site-header">
         <div className="flex items-center gap-4">
-          <img src="/assets/logo.svg" alt="햇살농업건설" className="logo-img" />
+          <img src="/haesalfarm_test/assets/logo.svg" alt="햇살농업건설" className="logo-img" />
         </div>
         <nav className="main-nav">
           <a className="px-3">하우스 시공</a>
