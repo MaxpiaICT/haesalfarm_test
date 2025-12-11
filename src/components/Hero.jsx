@@ -1,10 +1,10 @@
 import React from 'react'
 
 export default function Hero(){
-  const bgUrl = "/assets/bg.jpg"
+  const bgUrl = "/haesalfarm_test/assets/bg.jpg"
   return (
     <section className="hero">
-      <div className="hero-bg" style={{backgroundImage: `url(${bgUrl})`}} />
+      <div className="hero-bg" style={{backgroundImage: `url(/haesalfarm_test/assets/bg.jpg)`}} />
       <div className="hero-overlay"/>
       <div className="hero-content">
         <h1>스마트 농업 솔루션의 모든 것</h1>

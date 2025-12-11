@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="footer-inner">
         {/* 1. 로고 */}
         <div className="footer-col footer-logo-col">
-          <img src="/assets/logo.svg" alt="햇살농업건설" className="footer-logo" />
+          <img src="/haesalfarm_test/assets/logo.svg" alt="햇살농업건설" className="footer-logo" />
         </div>
         {/* 2. 위치 및 연락처 */}
         <div className="footer-col">

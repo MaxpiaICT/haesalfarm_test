@@ -197,7 +197,7 @@
 
  .hero-bg {
   @apply absolute inset-0 w-full h-full bg-cover bg-center; /* h-full로 변경 */
-  background-image: url('/assets/bg.jpg');
+  background-image: url('/haesalfarm_test/assets/bg.jpg');
   z-index: 0;
 }
 
@@ -289,19 +289,19 @@
 .card-1 .card-bg {
   background-image:
     linear-gradient(to bottom, rgba(0,0,0,0.65), rgba(0,0,0,0)),
-    url('/assets/card1.jpg');
+    url('/haesalfarm_test/assets/card1.jpg');
 }
 
 .card-2 .card-bg {
   background-image:
     linear-gradient(to bottom, rgba(0,0,0,0.65), rgba(0,0,0,0)),
-    url('/assets/card2.jpg');
+    url('/haesalfarm_test/assets/card2.jpg');
 }
 
 .card-3 .card-bg {
   background-image:
     linear-gradient(to bottom, rgba(0,0,0,0.65), rgba(0,0,0,0)),
-    url('/assets/card3.jpg');
+    url('/haesalfarm_test/assets/card3.jpg');
 }
 
 
