@@ -8,7 +8,7 @@ import './index.css'
 
 const root = createRoot(document.getElementById('root'))
 root.render(
-	<BrowserRouter>
+	<BrowserRouter basename="/haesalfarm_test">
 		<Routes>
 			<Route path="/" element={<App />}>
 				<Route index element={<Home />} />
